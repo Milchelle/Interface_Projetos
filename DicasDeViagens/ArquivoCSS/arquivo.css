@@ -1,0 +1,22 @@
+	<style type="text/css">
+		body{background: powderblue}
+		#links{background: powderblue;text-align: right;}
+		body{background: powderblue}
+		#links{background: powderblue;text-align: right;}
+		#dicas{border:2px solid white;margin: 10px;padding: 5px; width: 200px; height: 700px; float: left; color: black;font-family: "Arial Narrow"}
+		.praia{color: white;font-family: "ALGERIAN"}
+		.topicos{color: white;}
+		body{background: powderblue}
+		#texto{color: black; font-family: "Arial Narrow"}
+		#links{background: powderblue;text-align: right;}
+		#recado{color: blue;font-family: "CASTELLAR"}
+		#rodape{text-align: center;}
+		.atenção{font-family: "Arial Black"}
+		body{background: powderblue}
+		#caracteristicas{background: white;border: 1px solid powderblue; margin: 50px 30px 10px 5px;padding: 30px 20px 10px 25px; color: black;font-family: "Arial Narrow"; }
+		#links{background: powderblue;text-align: right;}
+		#rodape{text-align: center;}
+		.letra{color: #61BF8A;font-family: "ALGERIAN";}
+		.legenda{font-family: "Arial black";}
+		
+	</style>
